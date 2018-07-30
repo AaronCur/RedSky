@@ -208,8 +208,8 @@ button:active {
   .weather__info {
     width: 80%;
     margin-left: 10%;
-    font-size: 4vmin;
-    font-weight: 200;
+    font-size: 4.5vmin;
+    font-weight: bold;
     letter-spacing: 1px;
   }
 
@@ -228,7 +228,7 @@ button:active {
     border-radius: 2px;
     font-weight: lighter;
     letter-spacing: 1px;
-    font-size: 3.5vmin;
+    font-size: 4vmin;
     cursor: pointer;
     background-color: #f16051;
     color: #fff;
