@@ -179,7 +179,7 @@ button:active {
     width: 30vw;
     margin-top: 0px;
     margin: auto;
-    background: url("img/bgMobile.jpg") center center no-repeat;
+    background: url("img/bg.jpg") center center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -227,7 +227,7 @@ button:active {
       width: 100%;
       margin-top: 0px;
       margin: auto;
-      background: url("img/bg.jpg") center center no-repeat;
+      background: url("img/bgMobile.jpg") center center no-repeat;
       background-size: cover;
       display: flex;
       align-items: center;
